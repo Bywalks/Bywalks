@@ -1,25 +1,28 @@
-### Hello World 👋 I am [Bywalks](https://github.com/Bywalks)
-
-<div>
+I'm a Computer Science Enthusiast  👨‍💻, Currently in pre-final year  at SSIPMT Raipur 👨‍🎓
   
-<br />
-<p>
+- 🌱 I’m currently learning about Data Structures , Unix System 
+- 👯 I’m looking to collaborate on Cpp projects and Basic Web Dev stuff
+- 🤔 I’m looking for help in learning about Web Dev and JavaScript 
+- 💬 Ask me about anything and everything 
+- 📫 How to reach me: &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:shuklaraghav321@gmail.com)
+- ⚡ Fun fact: Jack of all trades , Master of None ! 
 
-- 🔭 I’m currently working on **China**.
-- 📚 I’m currently learning **Go**.
-- 👯 If you have any projects you would like to colaborate, reach out to me.
-- 💬 Ask me about **anything**!
-- ✉️ Reach me on [Twitter](https://www.twitter.com/bywalkss/) or [email](mailto:bywalks@outlook.com).
 
-</h4>
-</div>
+## Some Stats About Raghav 
+<p align="center" >
+<img alt="Raghav's github stats" src="https://github-readme-stats.vercel.app/api?username=Raghav-byte&include_all_commits=true&count_private=true&show_owner=true&show_icons=true&theme=merko"  > </p>
 
-<br />
+<p align="center">
+<a href="https://www.linkedin.com/in/raghav-byte/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="raghav_shukl" height="25" width="25" /></a>&nbsp;&nbsp;
+<a href="https://twitter.com/_raghavit" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@_raghavit" height="25" width="25" /></a>&nbsp;&nbsp;
+<a href="https://dev.to/raghavbyte" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="@raghavbyte" height="25" width="25" /></a> &nbsp;&nbsp;
+<a href="https://instagram.com/raghav_shukl" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="raghav_shukl" height="25" width="25" /></a>&nbsp;&nbsp;
+</p>
 
-<div><p>My overview: </p></div>
 
-![Bywalks's github stats](https://github-readme-stats.vercel.app/api?username=Bywalks&show_icons=true)
-<br />
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Bywlaks.Bywalks)
-<br />
+<!--
+[![HitCount](http://hits.dwyl.com/Raghav-byte/Raghav-byte.svg)](http://hits.dwyl.com/Raghav-byte/Raghav-byte)
+⭐️ From [Raghav-byte](https://github.com/Raghav-byte)
+<a href="https://sourcerer.io/Raghav-byte">Check more about me here 🌟 </a>
+- 🔭 I’m currently working on taking rest
+-->
