@@ -7,7 +7,7 @@ Hackerone ID：Bywalks
 
 公众号：攻防有道
 
-研究方向：云原生、红蓝对抗
+研究方向：云原生、红蓝对抗、安全开发
 
 ### Github Stats
 
