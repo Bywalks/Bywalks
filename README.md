@@ -5,8 +5,6 @@ Twitter ID：Bywalkss
 
 Hackerone ID：Bywalks
 
-Email：bywalks@outlook.com
-
 公众号：攻防有道
 
 研究方向：安全蓝军、安全开发
