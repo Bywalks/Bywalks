@@ -7,7 +7,7 @@ Hackerone ID：Bywalks
 
 公众号：攻防有道
 
-研究方向：安全蓝军、安全开发
+安全方向：SDL建设、渗透蓝军、威胁情报、安全开发
 
 ### Github Stats
 
